@@ -4,5 +4,5 @@ import streamlit as st
 st.title("Dashboard")
 st.header("Laporan Bulanan")
 st.subheader("Monthly Expenses")
-st.write(Made with love using streamlit
+st.write(" with love using streamlit"
         )
